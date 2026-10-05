@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pelican.chernivtsi.space/sitemap.xml
+Sitemap: https://pelican.hotelup.work/sitemap.xml

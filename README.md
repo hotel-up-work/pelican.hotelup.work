@@ -1,6 +1,6 @@
 # Pelican Guest House & Hostel
 
-Live site: https://pelican.chernivtsi.space
+Live site: https://pelican.hotelup.work
 
 ## About
 Pelican Guest House & Hostel — гостьовий дім і хостел у Чернівцях. Односторінковий лендинг. Фото закладу немає (`photos_source: null`), тому hero типографічний (CSS/SVG), а єдині фото — міста Чернівців з Pexels (див. Photos).
