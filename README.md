@@ -64,11 +64,12 @@ Booking.com listing text (description, rooms, breakfast, house rules; guest revi
 HotelOS (`ch-pelican`): `stay-request` (хостельний варіант зі статтю гостей). Документ `hotels/ch-pelican` у Firestore треба створити вручну, інакше правила відхилять заявки.
 
 ## Photos
-Лише фото міста (не готелю), з Pexels, підключені за прямими посиланнями images.pexels.com (без копій у репо), з підписами та авторами на сторінці:
+Фото міста та одне ілюстративне фото в секції «Сад» — жодне не є фото самого закладу (`photos_source: null`), з Pexels, підключені за прямими посиланнями images.pexels.com (без копій у репо), з підписами та авторами на сторінці:
 
 - Резиденція буковинських митрополитів, нині Чернівецький університет: pexels.com/photo/39176014 (Tetiana Boriskova)
 - Чернівецький дворик: pexels.com/photo/17265321 (Андрій Копічевський)
 - Храм у Резиденції митрополитів: pexels.com/photo/20074400 (Anastasiia Kalushka)
+- Секція `#garden` — плетені крісла в зеленому садку (ілюстрація, підписана «не сад «Pelican»»): pexels.com/photo/33869744 (Alena Evseenko)
 
 ## SEO
 Title і description з маніфесту, canonical, Open Graph, `geo.*`, JSON-LD `Hostel` лише з підтвердженими полями (без numberOfRooms, starRating, aggregateRating), `robots.txt`, `sitemap.xml`, `404.html`.
